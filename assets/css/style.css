@@ -40,3 +40,14 @@ body {
     height: 40vh;
 }
 
+#anxious-link {
+    background-color: #D5A572;
+    width: 100vh;
+    height: 15vh;
+}
+
+#anxious-link a {
+    text-decoration: none;
+    color: #2F200F;
+    text-align: center;
+}
