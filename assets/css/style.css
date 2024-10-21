@@ -1,2 +1,42 @@
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    font-family: 'Atkinson Hyperlegible', Arial;
+    color: #2F200F;
+}
+
+.row>* {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/*Nav Bar*/
+
+.navbar {
+    display: flex;
+    background-color: #fff;
+    height: 5rem;
+    padding: 0 1rem;
+    justify-content: space-between;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 3rem;
+    color: #2F200F;
+    font-weight: 600;
+    
+}
+
+.navbar i {
+    font-size: 3rem;
+    color: #2F200F;
+}
+
+/*Main*/
+
+#heroimage {
+    width: 100vw;
+    height: 40vh;
+}
 
