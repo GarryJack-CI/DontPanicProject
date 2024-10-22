@@ -3,6 +3,7 @@
 body {
     font-family: 'Atkinson Hyperlegible', Arial;
     color: #2F200F;
+    overflow-x: hidden;
 }
 
 .row>* {
@@ -96,4 +97,86 @@ body {
 #references-link a {
     text-decoration: none;
     color: #2F200F;
+}
+
+.imgfit {
+    width: 100vw;
+    height: 40vh;
+}
+
+.cntr {
+    text-align: center;
+    padding: 1rem;
+}
+
+#gnanxdis {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #8EB8AC;
+    width: 100vw;
+    height: 25vh;
+    border-radius: 5%;
+    margin: 1% 0;
+    padding: 3%;
+}
+
+#gnanxdis h3 {
+    text-transform: uppercase;
+}
+
+#scanxdis {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #A7C8BF;
+    width: 100vw;
+    height: 25vh;
+    border-radius: 5%;
+    margin: 1% 0;
+    padding: 3%;
+}
+
+#scanxdis h3 {
+    text-transform: uppercase;
+}
+
+#pncdis {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #8EB8AC;
+    width: 100vw;
+    height: 25vh;
+    border-radius: 5%;
+    margin: 1% 0;
+    padding: 3%;
+}
+
+#pncdis h3 {
+    text-transform: uppercase;
+}
+
+#phbs {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #A7C8BF;
+    width: 100vw;
+    height: 25vh;
+    border-radius: 5%;
+    margin: 1% 0;
+    padding: 3%;
+}
+
+#phbs h3 {
+    text-transform: uppercase;
 }
