@@ -199,25 +199,6 @@ p {
   text-align: center;
 }
 
-#addresources {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  margin: 1% 0;
-  padding: 3% 0;
-}
-
-#addresources a {
-  text-decoration: none;
-  color: #2f200f;
-}
-
-#addresources a:hover {
-  color: #826341;
-}
-
 /*Footer*/
 
 .sitefooter {
