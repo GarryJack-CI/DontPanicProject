@@ -104,6 +104,10 @@ body {
     height: 40vh;
 }
 
+.imgfitautoheight {
+    width: 100vw;
+}
+
 .cntr {
     text-align: center;
     padding: 1rem;
@@ -179,4 +183,13 @@ body {
 
 #phbs h3 {
     text-transform: uppercase;
+}
+
+#copeanxiety {
+    padding: 0 0.2rem;
+    margin: 0.5rem 0;
+}
+
+#copeanxiety h2, p {
+    text-align: center;
 }
