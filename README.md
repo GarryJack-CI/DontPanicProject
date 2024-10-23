@@ -55,8 +55,24 @@ I did research on fonts that were designed to reduce visual stress and improve a
 
 ### Final Thoughts
 
-#### 
+#### Challenges
 
-#### References
+I had a lot of difficulty setting up the dropdown menu in the navbar. Unfortunately, I put it aside in the end as I didn't want to run out of time to finish other aspects of the project.
 
-For
+I also struggled to make the project responsive using the bootstrap grid classes.
+
+#### Reflections
+
+I will take more care in the future during the design of my projects to keep my code tidy and ordered. I will also research areas which I showed weakness in during this project.
+
+Overall, I am happy with the structure and content of the project for the mobile viewport. Given more time, I believe I would be able to address any gaps in the project and optimise the website for all viewports.
+
+### References
+
+I used the following websites to assist me throughout this project:
+
+[Coolors](https://coolors.co/)
+
+[W3Schools](https://www.w3schools.com/)
+
+[Bootstrap](https://getbootstrap.com/)
