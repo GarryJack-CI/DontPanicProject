@@ -2,10 +2,7 @@
 
 Don't Panic is a guide for users who suffer with anxiety or panic disorders. It's primary purpose is to inform the user and provide techniques for dealing with anxiety. Additionally, it provides the user with links to useful resources.
 
-
-## Project Planning
-
-### User Stories
+## User Stories
 
 **Must**
 - I want to find techniques that can help to reduce mine or a relative's anxiety.
@@ -18,22 +15,27 @@ Don't Panic is a guide for users who suffer with anxiety or panic disorders. It'
 **Could**
 - I want to connect with others who also suffer with anxiety.
 
+## Accessibility
+
 ### Color Scheme
 
-Using a [color palette generator](https://coolors.co/2f200f-d5a572-8eb8ac-dbad6a-dfd5a0), I decided to use the following colors for the background:
+Using a [color palette generator](https://coolors.co/2f200f-826341-d5a572-3f645a-8eb8ac-a7c8bf-dbad6a-dfd5a0), I chose the following colors as they were neutral and contrasted well with each other (checked using a [color contrast checker](https://webaim.org/resources/contrastchecker/))
+- #2F200F
+- #826341
 - #D5A572
-- #619B8A
+- #3F645A
+- #8EB8AC
+- #A7C8BF
 - #DBAD6A
 - #DFD5A0
-
-For the foreground, I chose a color that would contrast well with the background and checked it using the [Color Contrast Checker](https://https://webaim.org/resources/contrastchecker/):
-- #2F200F
 
 ### Fonts
 
 I did research on fonts that were designed to reduce visual stress and improve accessibility for visually impaired users, and decided to use the following font families:
 - Atkinson Hyperlegible **(Primary)**
 - Arial **(If primary font fails to load)**
+
+## Design Decisions
 
 ### Wireframes
 
@@ -48,6 +50,12 @@ I did research on fonts that were designed to reduce visual stress and improve a
 #### Desktop Design
 
 ![Desktop Design](assets/images/desktopwireframe.png)
+
+## Reflection on Development Process
+
+### Final Thoughts
+
+#### 
 
 #### References
 
